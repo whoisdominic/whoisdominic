@@ -12,7 +12,7 @@ I am a Software engineer with a proven ability to adapt and collaborate in rapid
 <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="50" height="50" /> <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="dominic-cobb-software-engineer" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/dominiccobbr?trk=profile-badge">Dominic Cobb</a></div>
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=whoisdominic&show_icons=true&count_private=true&theme=material-palenight&hide_border=true&hide=issues,contribs&include_all_commits=true&bg_color=00000000">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=whoisdominic&layout=compact&hide_border=true&theme=material-palenight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=whoisdominic&layout=compact&hide_border=true&theme=material-palenight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php,html">
 </p>
 
 ---
