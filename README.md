@@ -19,12 +19,21 @@ I am a Software engineer with a proven ability to adapt and collaborate in rapid
 
 <h2> 🧰  ToolBox </h2>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript Logo" width="50" hieght="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Typescript Logo" width="50" hieght="50" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" alt="Nestjs Logo" width="50" hieght="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript Logo" width="50" hieght="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Typescript Logo" width="50" hieght="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" alt="Nestjs Logo" width="50" hieght="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="GraphQL Logo" width="50" height="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="Go Logo" width="50" hieght="50" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="Flutter Logo" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="Kotlin Logo" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" alt="Swift Logo" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"  alt="React logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"  alt="Redux Logo" width="50" hieght="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" alt="Rust Logo" width="50" hieght="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" width="50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="Flutter Logo" width="50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="Kotlin Logo" width="50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" alt="Swift Logo" width="50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"  alt="React logo" width="50" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"  alt="Redux Logo" width="50" hieght="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" alt="NextJS Logo" width="50" height="50" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" alt="Android Logo" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" alt="iOS Logo" width="50" height="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker Logo" width="50" hieght="50" /><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg"  alt="AWS Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg"  alt="Google Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" alt="Android Logo" width="50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" alt="iOS Logo" width="50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker Logo" width="50" hieght="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg"  alt="AWS Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg"  alt="Google Logo" width="50" height="50"/>
 
 ---
