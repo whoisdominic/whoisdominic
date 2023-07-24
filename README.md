@@ -5,8 +5,6 @@
 
 I am a Software engineer with a proven ability to adapt and collaborate in rapidly changing work environments and team compositions. Born and raised in Bellevue Washington, a stone's throw away from a little company called Microsoft. I've always been fascinated with technology and how it can change the world!
 
- Proud graduate of General Assembly's Software Engineering Immersive.
-
 ```
 🤑  = ( 💼 ) =>  Currently building @ Tokul
 ```
