@@ -29,6 +29,7 @@ Born and raised in Bellevue Washington, a stone's throw away from a little compa
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg"  alt="AWS Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg"  alt="Google Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original-wordmark.svg"  alt="Terraform Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg"  alt="Opencv" width="50" height="50"/>
 </div>
 <h3> 🌍 Languages </h3>
 
