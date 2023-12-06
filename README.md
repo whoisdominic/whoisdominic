@@ -6,7 +6,7 @@
 Born and raised in Bellevue Washington, a stone's throw away from a little company called Microsoft. I've always been fascinated with technology and how it can change the world!
 
 ```
-🤑  = ( 💼 ) =>  Currently building @ Tokul
+🤑  = ( 💼 ) =>  Currently building @ Yum Brands
 ```
 <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="50" height="50" /> <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="dominic-cobb-software-engineer" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/dominiccobbr?trk=profile-badge">Dominic Cobb</a></div>
 <p align="center">
